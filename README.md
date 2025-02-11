@@ -14,7 +14,7 @@ Este programa es una sencilla aplicación de dibujo utilizando Pygame. Permite a
 
 ## Captura de Pantalla
 
-![Imagen de ejemplo](screenshot.png)
+![Imagen de ejemplo](screenshot.PNG)
 
 ## Instalación
 
