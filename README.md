@@ -40,10 +40,15 @@ Controles:
 - `P` → Desactivar rejilla
 - Clic izquierdo → Dibujar
 
-## Estructura del Código
+## Despliegue web
 
-El código se divide en tres archivos principales:
+Instalar la librería pygbag y ejecutar el comando para construir el archivo index.html:
 
-1. **`Paint.py`** → Contiene el bucle principal del programa.
-2. **`Plantilla.py`** → Define el área de dibujo y sus funcionalidades.
-3. **`Paleta.py`** → Maneja la selección de colores.
+```bash
+pip install pygbag
+pygbag pixel-paint
+```
+
+Dentro del directorio `pixel-paint` se creará el archivo index.html junto al .jar de la aplicación en `build/web`.
+
+
